@@ -17,6 +17,14 @@ body {
 
 .flexible {
     display: flex;
+    margin: 50px;
+}
+
+.half-width {
+    padding-left: 5%;
     width: 80%;
-    margin: 40px;
+}
+
+.link-button {
+    text-decoration: none;
 }
