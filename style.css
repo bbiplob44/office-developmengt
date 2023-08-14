@@ -1,7 +1,22 @@
-h1{
-    font-size: 5000px;
-    background-color: blue;
+h1 {
+    font-size: 50px;
 }
-h2{
-    background-color: brown;
+
+h2 {
+    font-size: 40px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.blue {
+    color: blue
+}
+
+.flexible {
+    display: flex;
+    width: 80%;
+    margin: 40px;
 }
